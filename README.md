@@ -1,0 +1,1 @@
+This repository contains an example of a common HTML error: a missing closing tag. The `bug.html` file demonstrates the error, while `bugSolution.html` provides the corrected code.  The error, a missing closing `</p>` tag, leads to unexpected layout behavior.  The solution simply adds the missing closing tag to ensure proper HTML structure and rendering.
